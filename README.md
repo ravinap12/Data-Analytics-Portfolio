@@ -11,5 +11,6 @@ Data Analytics Projects using Excel,SQL,Power BI and Python.
 
 ## SQL
 **batch_140_ravina_modi_subquery**
+
 **batch_no_140_Ravina_Modi_sqlassignment1**
 
