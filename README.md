@@ -14,3 +14,11 @@ Data Analytics Projects using Excel,SQL,Power BI and Python.
 
 **batch_no_140_Ravina_Modi_sqlassignment1**
 
+## POWERBI
+**House Project**
+
+**Loan Default Data Analysis Project**
+
+**Mobile Data Analysis Project**
+
+**Panic Attack Dataset**
